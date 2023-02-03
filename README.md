@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu
-- 👀 I’m interested in 5G - Beamforming, Spectral Coexistence, Machine Learning, NBIoT.
-- 🌱 I’m currently learning Spectral Coexistence.
-- 💞️ I’m looking to collaborate on Beamforming.
+- 👀 I’m interested in Cyber and IoT Security.
+- 🌱 I’m currently learning Ethical Hacking.
+- 💞️ I’m looking to collaborate on improving security in IoT devices.
 - 📫 How to reach me via mail to htanwar922@gmail.com, himanshu@ee.iitr.ac.in, Himanshu.eee21@ee.iitd.ac.in
 
 <!---
