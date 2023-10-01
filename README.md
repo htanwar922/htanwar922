@@ -30,7 +30,7 @@ Projects:
 
 ## Indian Institute of Technology Roorkee
 ### Bachelor of Technology - Electrical Engineering (2017-2021)
-CGPA - 8.314/10 \
+CGPA - 8.383/10 \
 Projects:
 - FPGA-based implementation of Numerical Overcurrent relay.
 - Industry-Oriented Project: Apportionate Battery-Capacitor (ABC) for Electric Vehicles.
